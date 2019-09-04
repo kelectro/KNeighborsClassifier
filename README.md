@@ -1,3 +1,4 @@
+### KNeighbors Classifier
 A simple KNeighborsClassifier classifier with the use of scikit learn. 
 Two datasets have been used :
 mnist --> grayscale imgs (60k 28x28) of handwritten alphanumeric characters
